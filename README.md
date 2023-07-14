@@ -1,20 +1,28 @@
 # MachineLearning_PDAC_Prediction
 Risk Prediction of Pancreatic Cancer Using Urine Biomarkers
-By: Jenny Harston
 
 Tech specs:
 Development environment: Anaconda3 - Python 3.9.7
 
-Packages used: 
+Packages used:
+
 •	pandas
+
 •	numpy
+
 •	random
+
 •	matplotlib
+
 •	sklearn
 
+
 Files: 
+
 •	project_JennyHarston.py
+
 •	pc_data.csv
+
 
 Instructions:
 •	Include both files in the same folder
