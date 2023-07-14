@@ -5,15 +5,10 @@ Tech specs:
 Development environment: Anaconda3 - Python 3.9.7
 
 Packages used:
-
 •	pandas
-
 •	numpy
-
 •	random
-
 •	matplotlib
-
 •	sklearn
 
 
