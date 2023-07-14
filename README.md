@@ -5,7 +5,7 @@ Tech specs:
 Development environment: Anaconda3 - Python 3.9.7
 
 Packages used:
-•	pandas
+/n•	pandas
 •	numpy
 •	random
 •	matplotlib
